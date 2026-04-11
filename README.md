@@ -5,7 +5,6 @@ This the code for the article "A Novel Text to Multi-Level MindMap summarization
 <img src="/method_overview.png" width="500">
 
 Datasets:
-- XSum: https://huggingface.co/datasets/EdinburghNLP/xsum
 - GovReport: https://huggingface.co/datasets/ccdv/govreport-summarization
 - MovieSum: https://huggingface.co/datasets/rohitsaxena/MovieSum
 - BookSum: https://huggingface.co/datasets/ubaada/booksum-complete-cleaned
